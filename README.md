@@ -115,6 +115,8 @@ modifier onlyOwner {
 ### Receive and fall back
 
 What happens if someone send or contract eth without calling the fund function<br>
-For that we need some function to keep track of the people hwo send eth<br>
+For that we need some function to keep track of the people hwo send eth. there are two special functions for that<br>
+one is called receive() and another is aclled fallback() <br>
+
 
 
