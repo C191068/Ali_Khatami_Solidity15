@@ -173,6 +173,13 @@ our receive function gets executed anytime we send a transaction to this now and
 When working with any other contract like ```akrkFundme.sol``` when we call one of the functions at the contract we are actually just inserting <br>
 this call data bit with certain data that points to one of those functions up there <br>
 
+![a14](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/61105c62-1488-408d-9bf7-fb77baec7d84)
+Figure9: now if we send any data at calldata field solidity says ```Fallback function is not defined``` this is<br>
+because whenever we send any data at calldata field, ```Remix``` is smart enough to know that we not looking for receive<br>
+we are looking for ```fallback``` and when it does not find any ```fallback``` function in the code it shows this error <br>
+
+
+
 
 
 
