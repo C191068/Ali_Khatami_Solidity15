@@ -178,6 +178,8 @@ Figure9: now if we send any data at calldata field solidity says ```Fallback fun
 because whenever we send any data at calldata field, ```Remix``` is smart enough to know that we not looking for receive<br>
 we are looking for ```fallback``` and when it does not find any ```fallback``` function in the code it shows this error <br>
 
+```fallback``` function sis similiar to ```receive``` function except for the fact that can work even when data is sent along with transaction
+
 
 
 
