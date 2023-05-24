@@ -168,6 +168,12 @@ figure7: here we can see after we click the ```result``` button we see it has no
 Figure8: if we keep the value equal to zero and click the ```transact``` button and then click ```result``` button<br>
 it will also give ouput as ```1```<br>
 
+our receive function gets executed anytime we send a transaction to this now and we don't specify a function and we keep the calldata blank<br>
+
+When working with any other contract like ```akrkFundme.sol``` when we call one of the functions at the contract we are actually just inserting <br>
+this call data bit with certain data that points to one of those functions up there <br>
+
+
 
 
 
