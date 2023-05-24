@@ -161,6 +161,9 @@ figure5: if we put ```1``` in the value field and click the ```Transact``` butto
 ![a11](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/e38d22d9-18ce-4db2-920f-45af30089781)
 Figure6: here at console we can see that it has called our receive function<br>
 
+![a12](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/3b96e5b2-9c87-4641-b4ba-7e963f76c979)
+figure7; here we can see after we click the ```result``` button we see it has now become ```1```<br>
+
 
 
 
