@@ -155,6 +155,8 @@ Figure4; in this arear of low level interaction we acn work with differnt functi
 
 if we keep the ```calldata``` blank it will be the same as if we are clicking ```Send``` on ```metamask``` wallet<br>
 
+![a10](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/76b862d2-dd84-4334-a3b9-dffabde64710)
+figure5: if we put ```1``` in the value field and click the ```Transact``` button we see successful transaction occured 
 
 
 
