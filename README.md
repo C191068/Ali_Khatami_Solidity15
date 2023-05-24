@@ -158,6 +158,10 @@ if we keep the ```calldata``` blank it will be the same as if we are clicking ``
 ![a10](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/76b862d2-dd84-4334-a3b9-dffabde64710)
 figure5: if we put ```1``` in the value field and click the ```Transact``` button we see successful transaction occured 
 
+![a11](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/e38d22d9-18ce-4db2-920f-45af30089781)
+Figure6: here at console we can see that it has called our receive function<br>
+
+
 
 
 
