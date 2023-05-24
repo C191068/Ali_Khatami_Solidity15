@@ -153,6 +153,8 @@ Figure3: we can send this contract , ethereum directly by working with this ```l
 ![a9](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/966b7791-e25f-49c4-8a84-0511d3d684cd)
 Figure4; in this arear of low level interaction we acn work with differnt function<br>
 
+if we keep the ```calldata``` blank it will be the same as if we are clicking ```Send``` on ```metamask``` wallet<br>
+
 
 
 
