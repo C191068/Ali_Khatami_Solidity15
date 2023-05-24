@@ -146,6 +146,10 @@ thewe will get the following output <br>
 ![a7](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/7a997a58-30af-403a-a48a-d1b1c2ae9b57)
 Figure2: here after clicking the ```result``` button it shows zero because we have not initialized anything <br>
 
+![a8](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/36628526-bca6-4cc4-9da5-e6b677cfbf32)
+Figure3: we can send this contract , ethereum directly by working with this ```low level interaction```<br>
+
+
 
 
 
