@@ -113,3 +113,6 @@ modifier onlyOwner {
 
 
 ### Receive and fall back
+
+What happens if someone send or contract eth without calling the fund function<br>
+
