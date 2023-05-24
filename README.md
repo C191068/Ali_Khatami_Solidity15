@@ -118,5 +118,37 @@ What happens if someone send or contract eth without calling the fund function<b
 For that we need some function to keep track of the people hwo send eth. there are two special functions for that<br>
 one is called receive() and another is aclled fallback() <br>
 
+![a6](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/ce950adc-055c-4125-9b5b-76f10b5367e2)
+
+figure1; we will create a new solidiy file which is ```akrkFallbackExample.sol```  and write vthe code below:
+
+```
+//SPDX-License-Identifier:MIT
+
+pragma solidity ^0.8.8;
+
+contract akarkfallbackExample{
+
+    uint256 public result;
+
+    receive() external payable{
+
+        result=1;
+
+
+    }
+}
+
+```
+
+thewe will get the following output <br>
+
+![a7](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/7a997a58-30af-403a-a48a-d1b1c2ae9b57)
+Figure2: here after clicking the ```result``` button it shows zero because we have not initialized anything <br>
+
+
+
+
+
 
 
