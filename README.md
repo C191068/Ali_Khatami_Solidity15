@@ -357,6 +357,10 @@ Figure18: here we can see when click the owner bbutton it gives the same address
 Figure19: here when we click the MinimumUSD button it shows the minimum USD and in the fund button when <br>
 we click 0 it is showing that nothing is funded so it is a blank contract<br>
 
+![b12](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/749681b7-ac63-4df6-8736-81fe95b9d16c)
+Figure20: when we copy the address and paste it on sepolia etherscan we see that the balance is 0 eth and <br>
+transaction occured due to contract creation <br>
+
 
 
 
