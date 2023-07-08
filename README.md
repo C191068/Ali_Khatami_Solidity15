@@ -1,7 +1,8 @@
 # Ali_Khatami_Solidity15
 ### Advanced Solidity Custom errors(learning from the video of Pattrick collins)
 we wil create custom error here to save gas
-```
+
+```solidity
 
 //SPDX-License-Identifier:MIT
 
