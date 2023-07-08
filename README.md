@@ -371,6 +371,21 @@ like previous we have to do calculation before sending money to this contract<br
 Figure22: going to this link https://data.chain.link/ethereum/mainnet/crypto-usd/eth-usd we see the current value<br>
 of ethereum in USD <br>
 
+here minimum USD is 50 and then = 50/1865.53 = 0.026+0.006 = 0.03 minimum Sepolia Eth 
+
+![b20](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/c6e87903-8a64-46fd-84bf-3241743e6cef)
+Figure23: then we will click the send button <br>
+
+![b21](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/84227a61-8570-426d-aee1-5741970bf575)
+Figure24: at send option we will paste the address of our contract and at amount section we will typed <br>
+0.03 Sepolia Eth and click the ```next``` button
+
+![b23](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/4bc00220-5434-4147-89e9-fe1cdeaedbf3)
+Figure25: Thus we have successfully send money to the contract without calling the fund function<br>
+
+
+
+
 
 
 
