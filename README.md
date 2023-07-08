@@ -192,6 +192,14 @@ Figure10: when we declare fallback function in the code and hit the transact but
 no such error is shown raher transaction occured. here it is sending data to our contract <br>
 It is equivalent to calling our contract withot any valid function <br>
 
+![b2](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/11d61709-71ea-40e9-878d-55cdb8678e11)
+
+Figure11: Now if we don't type anything in the transact field solidity will understand we gonna send <br>
+ethereum or call this contract without specifying what we want to do and if we click the transact button <br>
+transaction will occur and then click the result button it update back to 1 <br>
+
+
+
 
 
 
