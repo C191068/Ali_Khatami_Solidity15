@@ -180,7 +180,7 @@ we are looking for ```fallback``` and when it does not find any ```fallback``` f
 
 ```fallback``` function sis similiar to ```receive``` function except for the fact that can work even when data is sent along with transaction
 
-In ```fallback``` and ```receive``` function we will not use the function keyword.<br>
+In ```fallback``` and ```receive``` function we will not use the function keyword as it is expected by solidity.<br>
 
 
 
