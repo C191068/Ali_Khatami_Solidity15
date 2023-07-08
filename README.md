@@ -365,8 +365,14 @@ transaction occured due to contract creation <br>
 Figure21: We now want to send this contract money without calling the fund function for that at first<br>
 we copy the contract address again<br>
 
-![b14](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/af964581-76e4-4525-9f13-ca3c4562555f)
-Figure22: then on the metamask wallet we will click the ```send``` button <br>
+like previous we have to do calculation before sending money to this contract<br>
+
+![b19](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/a05c7005-44e8-4ec3-87ef-a00a3adc3c3b)
+Figure22: going to this link https://data.chain.link/ethereum/mainnet/crypto-usd/eth-usd we see the current value<br>
+of ethereum in USD <br>
+
+
+
 
 
 
