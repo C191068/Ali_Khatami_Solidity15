@@ -211,6 +211,7 @@ We can use these ```receive``` and ```fallback``` functions in our akrkFundme co
 to send us money instead of calling the fund function correctly 
 
 
+we will add the ```receive``` function if somebody accidently send it money we can still proceeds the transaction<br>
 
 
 
