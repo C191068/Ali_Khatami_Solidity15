@@ -1,5 +1,5 @@
 # Ali_Khatami_Solidity15
-### Advanced Solidity Custom errors
+### Advanced Solidity Custom errors(learning from the video of Pattrick collins)
 we wil create custom error here to save gas
 ```
 
@@ -179,6 +179,9 @@ because whenever we send any data at calldata field, ```Remix``` is smart enough
 we are looking for ```fallback``` and when it does not find any ```fallback``` function in the code it shows this error <br>
 
 ```fallback``` function sis similiar to ```receive``` function except for the fact that can work even when data is sent along with transaction
+
+In ```fallback``` and ```receive``` function we will not use 5thye function keyword.<br>
+
 
 
 
