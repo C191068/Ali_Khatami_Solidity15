@@ -205,6 +205,7 @@ to be called . Source: https://youtu.be/gyMwXuJrbJQ
 
 
 
+![b4](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/e0543fc4-2100-4a1c-a318-80d3f13d0e16)
 
 We can use these ```receive``` and ```fallback``` functions in our akrkFundme contract when someone actually one wants <br>
 to send us money instead of calling the fund function correctly 
