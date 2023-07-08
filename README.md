@@ -347,6 +347,8 @@ Figure15: when we click the ```Deploy``` button the metamask window pop up askin
 ![b7](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/5a96768e-6c0a-42c6-ace6-85b137b6997e)
 Figure16: at last succesful transaction have occured<br>
 
+![b8](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/b25848ad-6e80-4358-9416-744c200e1609)
+Figure17: this is our deployed contract 
 
 
 
