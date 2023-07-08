@@ -182,6 +182,14 @@ we are looking for ```fallback``` and when it does not find any ```fallback``` f
 
 In ```fallback``` and ```receive``` function we will not use the function keyword as it is expected by solidity.<br>
 
+```constructor``` function is another special function where we don't use the function keyword<br>
+
+solidity knows that this ```constructor``` function is immediately called when we deploy the contract<br>
+
+
+
+
+
 
 
 
