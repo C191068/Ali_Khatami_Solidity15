@@ -361,6 +361,13 @@ we click 0 it is showing that nothing is funded so it is a blank contract<br>
 Figure20: when we copy the address and paste it on sepolia etherscan we see that the balance is 0 eth and <br>
 transaction occured due to contract creation <br>
 
+![b13](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/dade7ab8-acc4-4231-8a77-088b7aede5c6)
+Figure21: We now want to send this contract money without calling the fund function for that at first<br>
+we copy the contract address again<br>
+
+
+
+
 
 
 
