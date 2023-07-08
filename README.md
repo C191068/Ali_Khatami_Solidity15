@@ -198,6 +198,13 @@ Figure11: Now if we don't type anything in the transact field solidity will unde
 ethereum or call this contract without specifying what we want to do and if we click the transact button <br>
 transaction will occur and then click the result button it update back to 1 <br>
 
+![b3](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/066de972-23d1-40f7-b8fe-b1f760254758)
+Figure12: Here in the photo we can see that solidity by example dot org have wonderfuul chart that we can use<br>
+to figure out whether or not ```receive``` function is going to be called or ```fallback``` function is going<br>
+to be called . Source: https://youtu.be/gyMwXuJrbJQ
+
+
+
 
 
 
