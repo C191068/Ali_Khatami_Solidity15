@@ -383,7 +383,10 @@ Figure24: at send option we will paste the address of our contract and at amount
 ![b23](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/4bc00220-5434-4147-89e9-fe1cdeaedbf3)
 Figure25: Thus we have successfully send money to the contract without calling the fund function<br>
 ![b24](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/9ad12ff4-61b1-460e-9d2b-732d19955fc1)
-Figure26: on the etherscan we can see the amount is also updated <br>
+Figure26: on the etherscan we can see the amount is also updated and on the transaction side the method is 
+```transfer``` instead of ```fund``` <br>
+
+
 
 
 
