@@ -338,6 +338,18 @@ will automatically route them to the fund function <br>
 
 If anyone does not send us enough funding it will still get reverted <br>
 
+![b5](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/89dff193-a9d1-4497-aa04-288461149a5c)
+Figure14: here we change the environment to ```injected-provider metamask``` i.e we have connected our metamask wallet account<br>
+
+![b6](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/06f2064c-dec2-450f-a8b0-51392d00e615)
+Figure15: when we click the ```Deploy``` button the metamask window pop up asking for confirmation of transaction<br>
+
+![b7](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/5a96768e-6c0a-42c6-ace6-85b137b6997e)
+Figure16: at last succesful transaction have occured<br>
+
+
+
+
 
 
 
