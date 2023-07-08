@@ -388,7 +388,11 @@ Figure26: on the etherscan we can see the amount is also updated and on the tran
 
 ![b25](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/95faa11f-6beb-4805-972d-e007ba1674b6)
 Figure27: Now going to our deployed contract we see that when we typed 0 at the funder button field <br>
-it gives us the address of the account which is sending money i.e the metamask wallet address <br>
+it gives us the address of the account which is sending money i.e the metamask wallet address. Then when<br>
+at the addresstoAmountFunded field we paste address of the account it shows the amount of SepoliaEth send<br>
+
+
+
 
 
 
