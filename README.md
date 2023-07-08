@@ -353,6 +353,11 @@ Figure17: this is our deployed contract
 ![b9](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/842f782a-dcb1-4d41-9f73-1a37feba5e6e)
 Figure18: here we can see when click the owner bbutton it gives the same address as our metamask wallet<br>
 
+![b11](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/7350d482-ba40-4f10-b618-3f75496eea80)
+Figure19: here when we click the MinimumUSD button it shows the minimum USD and in the fund button when <br>
+we click 0 it is showing that nothing is funded so it is a blank contract<br>
+
+
 
 
 
