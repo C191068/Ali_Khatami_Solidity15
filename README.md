@@ -123,7 +123,8 @@ one is called receive() and another is aclled fallback() <br>
 
 figure1; we will create a new solidiy file which is ```akrkFallbackExample.sol```  and write vthe code below:
 
-```
+```solidity
+
 //SPDX-License-Identifier:MIT
 
 pragma solidity ^0.8.8;
@@ -217,7 +218,7 @@ we will add the ```receive``` function if somebody accidently send it money we c
 
 The code is given below and for the libraray code for the code is here at https://github.com/C191068/Ali_Khatami_Solidity_11.git
 
-```
+```solidity
 
 //SPDX-License-Identifier:MIT
 
