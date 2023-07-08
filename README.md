@@ -336,6 +336,10 @@ modifier onlyOwner {
 if anyone sends any transaction without calling the fund function then in the abvove code ```receive() external payable``` <br>
 will automatically route them to the fund function <br>
 
+If anyone does not send us enough funding it will still get reverted <br>
+
+
+
 
 
 
