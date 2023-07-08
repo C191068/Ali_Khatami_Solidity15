@@ -365,6 +365,9 @@ transaction occured due to contract creation <br>
 Figure21: We now want to send this contract money without calling the fund function for that at first<br>
 we copy the contract address again<br>
 
+![b14](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/af964581-76e4-4525-9f13-ca3c4562555f)
+Figure22: then on the metamask wallet we will click the ```send``` button <br>
+
 
 
 
