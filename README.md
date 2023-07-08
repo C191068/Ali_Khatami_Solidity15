@@ -206,6 +206,12 @@ to be called . Source: https://youtu.be/gyMwXuJrbJQ
 
 
 
+We can use these ```receive``` and ```fallback``` functions in our akrkFundme contract when someone actually one wants <br>
+to send us money instead of calling the fund function correctly 
+
+
+
+
 
 
 
