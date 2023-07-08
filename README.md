@@ -189,7 +189,12 @@ solidity knows that this ```constructor``` function is immediately called when w
 
 ![b1](https://github.com/C191068/Ali_Khatami_Solidity15/assets/89090776/02387998-fb86-4b2a-a561-03f2bc33f453)
 Figure10: when we declare fallback function in the code and hit the transact button by typing the data <br>
-no such error is shown raher transaction occured <br>
+no such error is shown raher transaction occured. here it is sending data to our contract <br>
+It is equivalent to calling our contract withot any valid function <br>
+
+
+
+
 
 
 
